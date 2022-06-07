@@ -1,0 +1,3 @@
+Hello node. Node will read me using fs.
+File read is easy!
+Can you read me?
